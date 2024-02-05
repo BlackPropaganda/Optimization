@@ -1,0 +1,11 @@
+The C file must be compiled to a shared object; like this:
+
+# linux
+gcc -shared -o somefile.so -fPIC somefile.c
+
+# windows
+gcc -shared -o somefile.dll somefile.c
+
+At this stage I forgot I am developing on my windows computer,
+facepalm, mfw install MinGW
+

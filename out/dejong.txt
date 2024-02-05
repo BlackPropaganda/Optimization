@@ -1,0 +1,23 @@
+============================== De Jong ==============================
+lcg time:        1.0769999935291708
+mt time:         0.8402999956160784
+===== LCG =====
+Average:                 100632.63333333333
+Standard Deviation:      15502.2132713105
+Median:                  105347.5
+Range:                   70668
+============================================================
+===== MT =====
+Average:                 98603.4
+Standard Deviation:      15126.113614404132
+Median:                  100500.5
+Range:                   53560
+==== Fitness Results ====
+LCG best fitness: 60624
+MT best fitness: 69693
+==== Gradient Descent ====
+LCG Gradient Descent Optimization Results: 0
+Vector: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+MT Gradient Descent Optimization Results: 0
+Vector: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+============================================================

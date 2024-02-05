@@ -1,0 +1,23 @@
+============================== Rastrigin ==============================
+lcg time:        0.8947999740485102
+mt time:         0.9655999892856926
+===== LCG =====
+Average:                 9103.6
+Standard Deviation:      1527.5210162784713
+Median:                  8711.0
+Range:                   5968
+============================================================
+===== MT =====
+Average:                 9021.5
+Standard Deviation:      1577.1563836920832
+Median:                  9323.5
+Range:                   7193
+==== Fitness Results ====
+LCG best fitness: 7103
+MT best fitness: 5050
+==== Gradient Descent ====
+LCG Gradient Descent Optimization Results: -90000.0
+Vector: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+MT Gradient Descent Optimization Results: -90000.0
+Vector: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+============================================================

@@ -1,0 +1,53 @@
+============================== Ackleys Two ==============================
+lcg time:        1.427400013199076
+mt time:         1.5143999771680683
+===== LCG =====
+Average:                 588.8395979605381
+Standard Deviation:      60.747130975903104
+Median:                  597.8188737329058
+Range:                   235.7370595459322
+============================================================
+===== MT =====
+Average:                 581.1036706954297
+Standard Deviation:      56.37407913888314
+Median:                  590.5775535539897
+Range:                   199.8255806095458
+==== Fitness Results ====
+LCG best fitness: 468.8892171069074
+MT best fitness: 478.76440766374606
+==== Gradient Descent ====
+Warning: Division By Zero Detected. Defaulting to Value of One Delta below x_n.
+Warning: Division By Zero Detected. Defaulting to Value of One Delta below x_n.
+Warning: Division By Zero Detected. Defaulting to Value of One Delta below x_n.
+Warning: Division By Zero Detected. Defaulting to Value of One Delta below x_n.
+Warning: Division By Zero Detected. Defaulting to Value of One Delta below x_n.
+Warning: Division By Zero Detected. Defaulting to Value of One Delta above x_n.
+Warning: Division By Zero Detected. Defaulting to Value of One Delta above x_n.
+Warning: Division By Zero Detected. Defaulting to Value of One Delta below x_n.
+Warning: Division By Zero Detected. Defaulting to Value of One Delta above x_n.
+Warning: Division By Zero Detected. Defaulting to Value of One Delta above x_n.
+Warning: Division By Zero Detected. Defaulting to Value of One Delta above x_n.
+Warning: Division By Zero Detected. Defaulting to Value of One Delta below x_n.
+Warning: Division By Zero Detected. Defaulting to Value of One Delta above x_n.
+Warning: Division By Zero Detected. Defaulting to Value of One Delta above x_n.
+Warning: Division By Zero Detected. Defaulting to Value of One Delta above x_n.
+Warning: Division By Zero Detected. Defaulting to Value of One Delta above x_n.
+Warning: Division By Zero Detected. Defaulting to Value of One Delta above x_n.
+Warning: Division By Zero Detected. Defaulting to Value of One Delta above x_n.
+Warning: Division By Zero Detected. Defaulting to Value of One Delta above x_n.
+Warning: Division By Zero Detected. Defaulting to Value of One Delta below x_n.
+Warning: Division By Zero Detected. Defaulting to Value of One Delta above x_n.
+Warning: Division By Zero Detected. Defaulting to Value of One Delta above x_n.
+Warning: Division By Zero Detected. Defaulting to Value of One Delta below x_n.
+Warning: Division By Zero Detected. Defaulting to Value of One Delta above x_n.
+Warning: Division By Zero Detected. Defaulting to Value of One Delta above x_n.
+Warning: Division By Zero Detected. Defaulting to Value of One Delta below x_n.
+Warning: Division By Zero Detected. Defaulting to Value of One Delta below x_n.
+Warning: Division By Zero Detected. Defaulting to Value of One Delta below x_n.
+Warning: Division By Zero Detected. Defaulting to Value of One Delta below x_n.
+Warning: Division By Zero Detected. Defaulting to Value of One Delta below x_n.
+LCG Gradient Descent Optimization Results: -319.3001847701183
+Vector: [0, -1, 0, -1, -1, 0, -1, 0, -1, 0, 1, 0, 1, 0, -1, 0, 1, 0, 1, 0, 1, 0, -1, 0, 1, 0, 1, 0, 1, 0]
+MT Gradient Descent Optimization Results: -328.8922121945411
+Vector: [0, 1, 0, 1, 0, 1, 0, 1, 0, -1, 0, 1, 0, 1, 0, -1, 0, 1, 0, 1, 0, -1, 0, -1, 0, -1, 0, -1, 0, -1]
+============================================================
