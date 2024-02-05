@@ -13,22 +13,17 @@ warnings.filterwarnings("ignore")
 DIMENSIONS = 30
 
 if __name__ == "__main__":
-    ''' Schwefels function '''
-
-    '''
-    t1, t2 = Schwefels_calculations(30)
-    t1.to_csv('out/lcg_scwefels.csv', ';')
-    t2.to_csv('out/mt_scwefels.csv', ';')
-    '''
     
-    # processSchwefels()
-    # processDeJongs()
-    # processRosenbrock()
-    # processRastrigin()
-    # processGriewangk()
-    # processSineEnvelope()
-    # processStretchedVSine()
-    # processAckleysOne()
-    # processAckleysTwo()
-    # processEggHolder()
-
+    if input("Warning: This will generate all outputs for the project and wipe local CSV Data. Proceed? Y/n:").lower() == 'y':
+        processSchwefels()
+        processDeJongs()
+        processRosenbrock()
+        processRastrigin()
+        processGriewangk()
+        processSineEnvelope()
+        processStretchedVSine()
+        processAckleysOne()
+        processAckleysTwo()
+        processEggHolder()
+    else:
+        print("Experiment Aborted.")
